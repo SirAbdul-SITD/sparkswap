@@ -1,0 +1,41 @@
+═══════════════════════════════════════════
+SPARKSWAP — PLAY STORE LISTING
+com.murgames.sparkswap
+═══════════════════════════════════════════
+
+APP TITLE (max 50 chars):
+SparkSwap: Circuit Tile Puzzle
+
+SHORT DESCRIPTION (max 80 chars):
+Swap copper circuit tiles into place and light the lamp. 150 brainy levels!
+
+FULL DESCRIPTION:
+🔧 SWAP. SOLDER. SHINE. 🔧
+
+SparkSwap is a warm, vintage-styled circuit puzzle with a twist: the tiles are all in the WRONG places. Pick up a tile, swap it with a neighbor, and rebuild the copper trace from the battery to the lamp.
+
+💡 HOW TO PLAY
+• Tap a circuit tile to pick it up
+• Tap an adjacent tile to swap them
+• Rebuild the copper path from battery to lamp
+• Light the lamp to win — fewer swaps means more stars!
+
+✨ FEATURES
+• 150 levels across Easy 5×5, Medium 6×6 and Hard 7×7 boards
+• Unique swap-based gameplay — no rotating, pure spatial logic
+• Gorgeous vintage copper-and-brass circuit board style
+• Live power flow — watch the current creep closer with every swap
+• Par system: beat the target swap count for 3 stars
+• Calm ambient workshop soundtrack
+• Haptic feedback
+• 100% offline, no ads, no purchases, zero data collection
+
+🧠 A DIFFERENT KIND OF CIRCUIT PUZZLE
+Every tile is fixed in shape — only its position is wrong. Plan your swap chains carefully: one clever swap can fix two problems at once, and the best engineers always hit par.
+
+Swap smart. Light the lamp. 💡
+
+CATEGORY: Games > Puzzle
+CONTENT RATING: Everyone
+PRICE: Free
+TAGS: circuit, swap, tile, puzzle, logic, electric, brain, lamp, copper, retro
